@@ -1,0 +1,33 @@
+.bd-highlight {
+    background-color: blue;
+    padding: 5px;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+
+#finalNumber {
+    background-color: red;
+    border-radius: 50%;
+    font-size: x-small;
+}
+
+.hov:hover {
+    cursor: pointer;
+}
+
+.container-fluid {
+    background-color: cornsilk;
+}
+
+img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    opacity: 0.85;
+}
+
+.card {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
